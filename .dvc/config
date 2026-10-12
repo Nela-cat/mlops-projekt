@@ -2,3 +2,5 @@
     remote = lokalny
 ['remote "lokalny"']
     url = C:\dvc-store
+['remote "moj-sieciowy"']
+    url = Z:\dvc-storage
